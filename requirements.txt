@@ -39,4 +39,7 @@ urllib3==2.5.0
 xxhash==3.6.0
 zstandard==0.25.0
 streamlit
-langchain>=0.0.300
+langchain
+langchain-core
+langchain-openai
+python-dotenv
